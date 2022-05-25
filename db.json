@@ -17,6 +17,24 @@
       "comment": "Demo 1",
       "date": "2022-05-17T18:15:00.000Z",
       "id": 2
+    },
+    {
+      "productName": "Arjun Gautam ",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 30000000,
+      "comment": "i am just loving this material ui",
+      "date": "2022-05-10T18:15:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "puja ",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "puja sharma",
+      "date": "2022-05-10T18:15:00.000Z",
+      "id": 4
     }
   ]
 }
