@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Demo",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Demo comment",
+      "date": "2022-05-18T18:15:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Demo1 ",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "Demo 1",
+      "date": "2022-05-17T18:15:00.000Z",
+      "id": 2
+    }
+  ]
+}
